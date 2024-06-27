@@ -7,14 +7,10 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Setup C/C++ env
         uses: rlalik/setup-cpp-compiler@v1.2
-      - name: Setup python env
-        uses: actions/setup-python@v2.3.3
-      - name: Setup project require env
-        run: python python_require_env.py
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Start Compile Test, full compile check.
         run: python scripts\code_compile_check.py --cpu-arch=amd64
