@@ -3,7 +3,7 @@
 # APP ?= Hello3Ddonut
 # APP ?= Hello3Dwave
 # APP ?= HelloAnimation
-APP ?= HelloExSimple
+# APP ?= HelloExSimple
 # APP ?= HelloStar
 # APP ?= HelloCircle
 # APP ?= HelloFont
@@ -16,7 +16,7 @@ APP ?= HelloExSimple
 # APP ?= HelloPendulum
 # APP ?= HelloScroll
 # APP ?= HelloTimer
-# APP ?= HelloTransparent
+APP ?= HelloTransparent
 # APP ?= HelloWave
 # APP ?= HelloWindows
 # APP ?= HelloWidgets

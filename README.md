@@ -336,17 +336,6 @@ void AAA_func_1_simple(AAA *self)
 
 
 
-类-默认传参
-
-最全的参数列表为默认名称。
-
-最简单为func_simple
-
-有其他参数，使用func_with_xxx
-
-
-
-
 
 
 
