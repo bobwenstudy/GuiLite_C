@@ -1,0 +1,6 @@
+SRC		+= $(GUILITE_PATH)
+SRC		+= $(GUILITE_PATH)/core
+SRC		+= $(GUILITE_PATH)/widgets
+
+INCLUDE	+= $(GUILITE_PATH)
+INCLUDE += $(GUILITE_PATH)/core

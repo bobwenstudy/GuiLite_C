@@ -1,0 +1,22 @@
+#pragma once
+
+#include "core/api.h"
+#include "core/display.h"
+#include "core/image.h"
+#include "core/resource.h"
+#include "core/theme.h"
+#include "core/wnd.h"
+#include "core/word.h"
+
+#include "widgets/button.h"
+#include "widgets/dialog.h"
+#include "widgets/edit.h"
+#include "widgets/keyboard.h"
+#include "widgets/label.h"
+#include "widgets/list_box.h"
+#include "widgets/slide_group.h"
+#include "widgets/spinbox.h"
+#include "widgets/table.h"
+#include "widgets/wave_buffer.h"
+#include "widgets/wave_ctrl.h"
+#include "widgets/widgets.h"

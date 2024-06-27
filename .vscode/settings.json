@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "*.json": "json5",
+        "api.h": "c",
+        "resource.h": "c",
+        "assert.h": "c",
+        "uiblock.h": "c",
+        "stdafx.h": "c",
+        "guilite.h": "c",
+        "memory.h": "c",
+        "stdlib.h": "c",
+        "windows.h": "c",
+        "math.h": "c",
+        "uicode.h": "c",
+        "display.h": "c",
+        "wnd.h": "c",
+        "word.h": "c",
+        "button.h": "c",
+        "dialog.h": "c",
+        "edit.h": "c",
+        "spinbox.h": "c",
+        "string.h": "c",
+        "widgets.h": "c",
+        "slide_group.h": "c",
+        "freetype_operator.h": "c",
+        "ft2build.h": "c",
+        "surface_transparent.h": "c",
+        "theme.h": "c"
+    }
+}
